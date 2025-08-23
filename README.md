@@ -11,5 +11,6 @@ Tecnologias que uso
     <img src="https://skillicons.dev/icons?i=git,py,fastapi,bash,js,nodejs" />
   </a>
 </p>
-- :Intereses: Backend, Cirber Seguridad.
+
+- :pushpin: Interests: Backend, Cirber Seguridad.
 
