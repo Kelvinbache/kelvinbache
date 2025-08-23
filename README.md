@@ -13,7 +13,7 @@ Hi, I'm Welton, a Electronics student passionate about development and entrepren
 
 - :books: I’m currently learning C, Typescript, Node.js, React and React Native.
 - :computer: Techs: <img height="20"> 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,fastapi,bash,js,nodejs" />
   </a>
