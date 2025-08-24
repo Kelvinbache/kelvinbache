@@ -2,7 +2,9 @@
 <p align="center">
 <img src="https://i.pinimg.com/736x/95/7a/f5/957af5e5b16d038043dccc0a0d5daf4d.jpg">  
 </p>
-<h3 align="center"> Bievenidos a mi github :smiley::smiley::smiley::smiley:</h3>
+
+<h2 align="center"> Bievenidos a mi github soy Kelvin Abache :smiley:</h2>
+
 
 <!-- BREVE DESCRIPCION -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
@@ -15,7 +17,7 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Soy Kelvin Abache, un apasionado desarrollador backend y cirber seguridad autodidacta que trabaja tanto en programación backend. Me apasiona resolver problemas. Tengo experiencia tanto en desarrollo backend  y me apasiona la programación competitiva. También domino estructuras de datos y algoritmos, programación orientada a objetos, sistemas de gestión de bases de datos y sistemas operativos.
+Soy un apasionado desarrollador backend y cirber seguridad autodidacta que trabaja tanto en programación backend. Me apasiona resolver problemas. Tengo experiencia tanto en desarrollo backend  y me apasiona la programación competitiva. También domino estructuras de datos y algoritmos, programación orientada a objetos, sistemas de gestión de bases de datos y sistemas operativos.
 
 
 
