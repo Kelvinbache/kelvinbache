@@ -25,7 +25,6 @@ Soy Kelvin Abache, un apasionado desarrollador backend y cirber seguridad autodi
 - :orange_book: Curso de inteligencia artificial [udemy](https://www.udemy.com/) & [Elements Of AI](https://www.elementsofai.com/es/)
 - :closed_book: Curso de SQL [codecademy](https://www.codecademy.com/search?query=sql&fromPrevSearch=7b6833c8-4bde-4179-9a11-70c41bd0b3e7)
   
-<br><br>
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <div style="display:grid;align-items:center;justify-content:center">
 <h3>Languajes y Herramientas:</h3>
