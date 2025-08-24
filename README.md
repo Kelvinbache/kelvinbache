@@ -37,10 +37,15 @@ Soy un apasionado desarrollador backend y cirber seguridad autodidacta que traba
   </p>
 </div>
 
+<h4>Proyectos que me han gustado y Progreso</h4>
 
-<h4>Proyectos que me han gustado y siguen en proceso</h4>
+<div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvinbache&repo=segurity)](https://github.com/Kelvinbache/segurity)
+| Proyectos que me han gustado | Progresos |
+|------------------------------|-----------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvinbache&repo=segurity)](https://github.com/Kelvinbache/segurity) |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)|
+
+</div>
 
 <div align="center">
   
