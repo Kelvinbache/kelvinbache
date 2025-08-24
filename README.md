@@ -31,11 +31,11 @@
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languajes y Herramientas:</h3>
 <div style="display:grid;align-items:center;justify-content:center">
-  <p align="center">
+  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,py,fastapi,bash,nodejs,npm,mysql,liux" />
+    <img src="https://skillicons.dev/icons?i=git,js,py,fastapi,bash,nodejs,npm,mysql,linux" />
   </a>
-   </p>
+  </p>
 </div>
 
 <!-- GIF FOOTER -->
