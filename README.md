@@ -15,8 +15,15 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+Soy Kelvin Abache, un apasionado desarrollador backend y cirber seguridad autodidacta que trabaja tanto en programación backend. Me apasiona resolver problemas. Tengo experiencia tanto en desarrollo backend  y me apasiona la programación competitiva. También domino estructuras de datos y algoritmos, programación orientada a objetos, sistemas de gestión de bases de datos y sistemas operativos.
+
+
+
+<h4>Clases que e tomado</h4>
 
 - 📚 Donde estoy estudiando actualmente [universidad](http://www.unefa.edu.ve/)
+- :orange_book: Curso de inteligencia artificial [udemy](https://www.udemy.com/) & [Elements Of AI](https://www.elementsofai.com/es/)
+- :closed_book: Curso de SQL [codecademy](https://www.codecademy.com/search?query=sql&fromPrevSearch=7b6833c8-4bde-4179-9a11-70c41bd0b3e7)
   
 <br><br>
 <!-- LENGUAJES Y HERRAMIENTAS -->
@@ -31,7 +38,7 @@
 
 
 
-<div align="Center">
+<div>
   
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
