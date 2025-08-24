@@ -1,5 +1,10 @@
 <!-- GIF HEADER -->
-<img src="https://i.pinimg.com/736x/95/7a/f5/957af5e5b16d038043dccc0a0d5daf4d.jpg">
+<p align="center">
+<img src="https://i.pinimg.com/736x/95/7a/f5/957af5e5b16d038043dccc0a0d5daf4d.jpg">  
+</p>
+
+<p align="center"> Bievenidos a mi github :smiley::smiley::smiley::smiley:</p>
+
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="kelvin abche"/> </p>
