@@ -17,10 +17,9 @@
 
 - 📚 Donde estoy estudiando actualmente [universidad](http://www.unefa.edu.ve/)
   
-- 📫 Correo electronico **kelvinabache12@gmail.com**
-  
+<br><br>
 <!-- LENGUAJES Y HERRAMIENTAS -->
-<h3 align="left">Languajes y Herramientas:</h3>
+<h3>Languajes y Herramientas:</h3>
 <div style="display:grid;align-items:center;justify-content:center">
   <p>
   <a href="https://skillicons.dev">
