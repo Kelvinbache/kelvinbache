@@ -41,7 +41,7 @@ Soy Kelvin Abache, un apasionado desarrollador backend y cirber seguridad autodi
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvinbache&repo=segurity)](https://github.com/Kelvinbache/segurity)
 
-<div aling="center">
+<div align="center">
   
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
