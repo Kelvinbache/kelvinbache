@@ -19,7 +19,7 @@ Soy Kelvin Abache, un apasionado desarrollador backend y cirber seguridad autodi
 
 
 
-<h4>Clases que e tomado</h4>
+<h4>Clases que he tomado</h4>
 
 - 📚 Donde estoy estudiando actualmente [universidad](http://www.unefa.edu.ve/)
 - :orange_book: Curso de inteligencia artificial [udemy](https://www.udemy.com/) & [Elements Of AI](https://www.elementsofai.com/es/)
