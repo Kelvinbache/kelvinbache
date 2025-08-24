@@ -29,11 +29,17 @@
   </p>
 </div>
 
-<div align="Center">
 
+
+<div align="Center">
+  
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
 | <a href="kelvinabache12@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/></a> <a href="https://www.instagram.com/tegnoword?igsh=MXU3OW50OWZ4cmMzeg=="> <img src="https://skillicons.dev/icons?i=instagram"/></a> <a href="https://www.linkedin.com/in/kelvin-abache-50668a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdcIV1JO7QbqSGMAvqJnayg%3D%3D"> <img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="http://www.youtube.com/@tegnoword"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>  </a>| 
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
