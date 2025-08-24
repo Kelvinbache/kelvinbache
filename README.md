@@ -26,7 +26,7 @@ Soy un apasionado desarrollador backend y cirber seguridad autodidacta que traba
 - 📚 Donde estoy estudiando actualmente [universidad](http://www.unefa.edu.ve/)
 - :orange_book: Curso de inteligencia artificial [udemy](https://www.udemy.com/) & [Elements Of AI](https://www.elementsofai.com/es/)
 - :closed_book: Curso de SQL [codecademy](https://www.codecademy.com/search?query=sql&fromPrevSearch=7b6833c8-4bde-4179-9a11-70c41bd0b3e7)
-- :email: Donde pueden escribirme [kelvin Abache](kelvinabache12@gmail.com)
+
   
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <div style="display:grid;align-items:center;justify-content:center">
@@ -52,7 +52,7 @@ Soy un apasionado desarrollador backend y cirber seguridad autodidacta que traba
   
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="https://www.instagram.com/tegnoword?igsh=MXU3OW50OWZ4cmMzeg=="> <img src="https://skillicons.dev/icons?i=instagram"/></a> <a href="https://www.linkedin.com/in/kelvin-abache-50668a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdcIV1JO7QbqSGMAvqJnayg%3D%3D"> <img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="http://www.youtube.com/@tegnoword"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>  </a>| 
+| <a href="kelvinabache12@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/></a> <a href="https://www.instagram.com/tegnoword?igsh=MXU3OW50OWZ4cmMzeg=="> <img src="https://skillicons.dev/icons?i=instagram"/></a> <a href="https://www.linkedin.com/in/kelvin-abache-50668a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdcIV1JO7QbqSGMAvqJnayg%3D%3D"> <img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="http://www.youtube.com/@tegnoword"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>  </a>| 
 
 </div>
 
