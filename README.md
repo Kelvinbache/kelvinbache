@@ -45,6 +45,7 @@ Soy un apasionado desarrollador backend y cirber seguridad autodidacta que traba
 | Proyectos que me han gustado | Progresos |
 |------------------------------|-----------|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvinbache&repo=segurity)](https://github.com/Kelvinbache/segurity) |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinbache&show_icons=true)|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvinbache&repo=segurity)](https://github.com/Kelvinbache/segurity) |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinbache&show_icons=true)|
 
 </div>
 
